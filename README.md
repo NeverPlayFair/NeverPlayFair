@@ -1,18 +1,13 @@
-### Witaj na moim profilu Github.👋
-Znajdziesz na nim kilka drobnych projektów. 👨‍💻 <br>
-Zapraszam do odwiedzania zakładki pinned gdzie znajdują się najciekawsze rzeczy 💡
+### Hi there 👋, Witaj na moim profilu Github.👋
+![](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<!--
-**NeverPlayFair/NeverPlayFair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zapraszam do zakładki pinned
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bartekx.infin.com.pl/)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverPlayFair)](https://github.com/anuraghazra/github-readme-stats)
+
