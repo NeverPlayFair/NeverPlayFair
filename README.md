@@ -5,8 +5,9 @@ Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zaprasza
 
 <h4> Języki i biblioteki, które są mi bliskie: </h4> 
 <p align="left">
-<img src="https://s3-eu-west-1.amazonaws.com/fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/js-logo.png" width="40" height="40"/>
 <img src="https://reactconf.tv/images/react-icon.png" width="40" height="40"/>
+<img src="https://s3-eu-west-1.amazonaws.com/fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/js-logo.png" width="40" height="40"/>
+
 
 
   
