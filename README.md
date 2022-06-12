@@ -1,6 +1,6 @@
 ### Witaj na moim profilu Github.👋
 Znajdziesz na nim kilka drobnych projektów. 👨‍💻 <br>
-Zaprszam do odwiedzania zakładki pinned, znajdują się tam najciekawsze rzeczy 💡
+Zapraszam do odwiedzania zakładki pinned, znajdują się tam najciekawsze rzeczy 💡
 
 <!--
 **NeverPlayFair/NeverPlayFair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
