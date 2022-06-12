@@ -1,5 +1,5 @@
 ### <center> Witaj na moim profilu Github.👋</center>
-![](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=250&h=250&dpr=1 )
+![](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=350&h=350&dpr=1 )
 
 Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zapraszam do zakładki pinned.
 
