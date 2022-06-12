@@ -6,7 +6,7 @@ Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zaprasza
 <h4> Języki i biblioteki, które są mi bliskie: </h4> 
 <p align="left">
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="40" height="40"/>
-<img src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png" width="40" height="40"/>
+<img src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png" width="40" height="40"/>
 <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40" height="40"/>
 
