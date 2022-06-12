@@ -1,5 +1,5 @@
 ### Witaj na moim profilu Github.👋
-Znajdziesz na nim kilka drobnych projektów. 👨‍💻
+Znajdziesz na nim kilka drobnych projektów. 👨‍💻 <br>
 Zaprszam do odwiedzania zakładki pinned, znajdują się tam najciekawsze rzeczy 💡
 
 <!--
