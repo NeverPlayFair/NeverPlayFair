@@ -3,9 +3,11 @@
 
 Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zapraszam do zakładki pinned.
 
-<h4> Języki, które są mi bliskie: </h4> 
+<h4> Języki i biblioteki, które są mi bliskie: </h4> 
 <p align="left">
 <img src="https://s3-eu-west-1.amazonaws.com/fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/js-logo.png" width="40" height="40"/>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647490619965/P1dsNgj-f1.png" width="40" height="40"/>
+
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverPlayFair)](https://github.com/anuraghazra/github-readme-stats)
