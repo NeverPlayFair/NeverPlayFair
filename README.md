@@ -8,7 +8,7 @@ Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zaprasza
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="40" height="40"/>
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="40"/>
 <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40" height="40"/>
+<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="40"/>
 
 
 
