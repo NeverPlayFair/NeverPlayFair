@@ -1,5 +1,5 @@
 ### <center> Witaj na moim profilu Github.👋</center>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 
 Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zapraszam do zakładki pinned.
 
