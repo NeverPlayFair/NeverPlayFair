@@ -8,6 +8,7 @@ Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zaprasza
 <img src="https://reactconf.tv/images/react-icon.png" width="40" height="40"/>
 <img src="https://s3-eu-west-1.amazonaws.com/fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/js-logo.png" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40" height="40"/>
+<img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" width="40" height="40"/>
 
 
 
