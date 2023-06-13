@@ -17,7 +17,7 @@ Znajdziesz na nim kilka drobnych projektów, Aby lepiej mnie zrozumieć zaprasza
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverPlayFair)](https://github.com/anuraghazra/github-readme-stats)
 <h4> Social media: </h4> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bartekx.infin.com.pl/)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png' alt='codewars' height='40'>](https://www.codewars.com/users/NeverPlayFair)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeverPlayFair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18978872/neverplayfair)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bartekx.infin.com.pl/)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png' alt='codewars' height='40'>](https://www.codewars.com/users/NeverPlayFair)  
 
 
 
