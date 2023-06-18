@@ -1,7 +1,7 @@
-### <center> Welcome on my Github.👋</center>
+### <center><h1> Welcome on my Github.👋</h1></center>
 
 
-On my profile, I have a few simple projects. To learn more about them, please open the pinned section.
+<h4>On my profile, I have a few simple projects. To learn more about them, please open the pinned section.</h4> 
 
 <h4> Libraries and programming languages that I'm familiar with: </h4> 
 <p align="left">
