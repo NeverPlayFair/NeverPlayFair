@@ -1,6 +1,8 @@
-### <center><h1> Welcome on my Github.👋</h1></center>
+
+<center><h1> Welcome on my Github.👋</h1></center>
 
 
+<img src="https://www.codewars.com/users/NeverPlayFair/badges/large"/>
 <h4>I have a few straightforward projects featured on my profile. To discover more about them, kindly access the pinned section or repositories section.</h4> 
 
 <h4> Libraries and programming languages that I'm familiar with: </h4> 
