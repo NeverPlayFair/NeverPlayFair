@@ -5,7 +5,7 @@
 <img src="https://www.codewars.com/users/NeverPlayFair/badges/large"/>
 <h4>I have a few straightforward projects featured on my profile. To discover more about them, kindly access the pinned section or repositories section.</h4> 
 
-<h4> Libraries and programming languages that I'm familiar with: </h4> 
+<h4> Libraries, frameworks and programming languages that I'm familiar with: </h4> 
 <p align="left">
 
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="40"/>
