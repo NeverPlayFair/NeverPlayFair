@@ -5,7 +5,7 @@
 <img src="https://www.codewars.com/users/NeverPlayFair/badges/large"/>
 <h4>I have a few straightforward projects featured on my profile. To discover more about them, kindly access the pinned section or repositories section.</h4> 
 
-<h4> Libraries, frameworks and programming languages that I'm familiar with: </h4> 
+<h4> Libraries, frameworks and programming languages, technologies that I'm familiar with: </h4> 
 <p align="left">
 
 <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="40"/>
@@ -15,6 +15,7 @@
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="40" height="40"/>
 <img src="https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="40" height="40"/>
 
 
 
