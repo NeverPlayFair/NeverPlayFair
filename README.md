@@ -16,6 +16,8 @@
 <img src="https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/283/657/png-transparent-portainer-hd-logo.png" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" width="40" height="40"/>
 
 
 
