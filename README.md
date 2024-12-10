@@ -2,7 +2,7 @@
 <center><h1> Welcome on my Github👋</h1></center>
 
 **Codewars profile:** </br>
-<img src="https://www.codewars.com/users/NeverPlayFair/badges/large"/> </br></br>
+[<img src="https://www.codewars.com/users/NeverPlayFair/badges/large"/>](https://www.codewars.com/users/NeverPlayFair) </br></br>
 **Technologies & Tools:** 
 <p align="left">
 
