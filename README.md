@@ -27,7 +27,7 @@
 <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="40" height="40"/>
-<img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/>
 <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="40" height="40"/>
 <br><br>
 
