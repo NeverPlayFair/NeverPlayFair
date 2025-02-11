@@ -6,16 +6,35 @@
 **Technologies & Tools:** 
 <p align="left">
 
-<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="40"/>
-<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="40"/>
-<img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="40" height="40"/>
-<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="40" height="40"/>
-<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="40" height="40"/>
-<img src="https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/283/657/png-transparent-portainer-hd-logo.png" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.freepik.com/512/5968/5968350.png?ga=GA1.1.530725059.1739280054" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/15484/15484268.png" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Portainer.svg" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" height="40"/>
+<br> <br>
+<img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Confluence.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Portainer.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="40" height="40"/>
+<br><br>
+
+
+
+
+
 
 <h4> Social media & Code problems pages: </h4> 
 
